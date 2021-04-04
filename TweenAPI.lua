@@ -15,3 +15,4 @@ function TweenAPI:TeleportToPlayer(Player, Speed, Style)
 end 
 
 TweenAPI:TeleportToPart(game:GetService('Workspace').Part, 1, 'Linear')
+TweenAPI:TeleportToPlayer('Dummy', 1, 'Linear')
